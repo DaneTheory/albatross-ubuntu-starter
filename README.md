@@ -1,7 +1,7 @@
-albatross-ubuntu-starter
+albatross-ubuntu-starter (FOR VPS)
 ========================
 
-All the software fit to develop websites.  A bash script to set up the dev enviornments for Albatross Digital on an clean Ubuntu (Linux Mint) OS. Includes LAMP for Drupal, node.js, sublime3 and more.
+A bash script to set up the dev enviornments Ubuntu VPS. Includes LAMP for Drupal, node.js, MariaDB and more
 
 
 Installation
@@ -11,16 +11,8 @@ Just run install.sh:
 
 What's included
 ---------------
-+ Sublime2
-+ Plugins for Sublime2 for Drupal (https://github.com/phase2/sublime-drupal.git)
 + LAMP stack for Drupal
 + Drush for Drupal
-+ MS Core Fonts
-+ Wine (for Photoshop)
-+ SASS and Compass
-+ KeepassX for passwords
-+ gcolor2 colorpicker
 + node.js
-+ redis
-+ mongo
 + meteor (node.js framework)
++ MariaDB
